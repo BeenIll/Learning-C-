@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Layne\Documents\Visual Studio Bull Shit\Number Guessing Game\Number Guessing Game\main.cpp(31,1): warning C4715: 'guess': not all control paths return a value
+  Number Guessing Game.vcxproj -> C:\Users\Layne\Documents\Visual Studio Bull Shit\Number Guessing Game\x64\Debug\Number Guessing Game.exe
